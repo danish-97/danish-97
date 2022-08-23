@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danish Khursheed.
-- 👀 I’m interested in learning new things, reading and anime.
+- 👀 I’m interested in learning new things, reading and cybersecurity.
 - 🌱 I’m currently learning Software Engineering in the University of Canterbury.
 - 📫 You can reach me on my personal email address danishkj01@gmail.com
 
